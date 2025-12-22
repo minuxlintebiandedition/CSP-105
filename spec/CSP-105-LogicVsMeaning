@@ -61,6 +61,10 @@ RULE {
 
 ====================================================================================
 
+The structured version above is not a translation, explanation, or formalisation of the human version below; they are deliberately non-equivalent views intended to expose the failure that occurs when logic is mistaken for meaning.
+
+====================================================================================
+
 Readable Version
 
 LOGIC vs SPEECH / MEANING
@@ -116,3 +120,21 @@ RULES TO KEEP DISTINCT
 - Speech can suggest without proving.
 
 
+====================================================================================
+
+NOTES / MISREADINGS TO AVOID
+
+- This page does not present a proof.
+- It does not formalise meaning.
+- It does not make speech logical, nor logic meaningful.
+
+- The structured form is not “more correct” than the human form.
+- The human form is not a simplification of the structured form.
+- Each can reveal failures the other cannot.
+
+- If you treat fluency as validity, you are committing the error described here.
+- If you treat structure as authority, you are committing the error described here.
+- If you treat disagreement as illogic, you are committing the error described here.
+
+This page is a diagnostic lens, not a doctrine.
+Use it to detect category errors, not to found a system.
