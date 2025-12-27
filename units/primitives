@@ -2,22 +2,22 @@
 
 semantics and modelling:
 
-Id
+Id_No
 Label
-DescShort
-DescLong
-Dependancies
-Dependants
-AltLabel - if there are two or more name-labels in use for any reason, record these too. 
+DscShrt
+DscLong
+Depcies
+Depants
+AltLabl
 
 cognitive archeology:
 
-evolved earliest
-evolved conservative
-aware earliest
-aware conservative
-described earliest
-described conservative
+evo_earl
+evo_cons
+awr_earl
+awr_cons
+dsc_earl
+dsc_cons
 
 csv? txt?
 
