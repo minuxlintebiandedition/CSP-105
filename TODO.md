@@ -1,4 +1,4 @@
-# Project TODO
+# Project TO DO
 
 - Convert primitives data into structured database format
 - Create primitives dependency diagram
