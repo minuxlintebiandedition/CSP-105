@@ -3,20 +3,21 @@
 semantics and modelling:
 
 Id
-Label 
-Dependancies
-Dependants
+Label
 DescShort
 DescLong
+Dependancies
+Dependants
+AltLabel - if there are two or more name-labels in use for any reason, record these too. 
 
 cognitive archeology:
 
-evolved min
-evolved latest
-aware min
-aware latest
-described min
-described latest
+evolved earliest
+evolved conservative
+aware earliest
+aware conservative
+described earliest
+described conservative
 
 csv? txt?
 
