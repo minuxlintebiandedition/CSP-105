@@ -93,4 +93,9 @@ Use what helps.
 Ignore what doesn’t.
 Raise an issue if something breaks or misleads.
 
-That’s it.
+---
+
+## You might be looking for:
+
+Linguistics,
+  https://www.isko.org/cyclo/primitives.htm
