@@ -76,13 +76,15 @@ Any use alongside software or AI is optional, downstream, and non-authoritative.
 
 ---
 
+---
+
 ## This Is Not Magic School Or Jedi Temple
 
-Hogwarts          (negligence)
-Xavier’s School   (weaponisation of care)
-The Black School  (power without care)
-Brakebills        (gatekeeping)
-Jedi Temple       (emotional repression)
+- Hogwarts          (negligence)
+- Xavier’s School   (weaponisation of care)
+- The Black School  (power without care)
+- Brakebills        (gatekeeping)
+- Jedi Temple       (emotional repression)
 
 ---
 
