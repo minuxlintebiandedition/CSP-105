@@ -101,5 +101,7 @@ From a Linguistics Perspective,
 
 https://www.isko.org/cyclo/primitives.htm
 
+https://intranet.secure.griffith.edu.au/__data/assets/pdf_file/0018/346032/150_NSM_CanonicalSentences_v5_05_2017.pdf
+
 ---
 
