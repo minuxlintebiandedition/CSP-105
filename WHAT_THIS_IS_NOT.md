@@ -95,7 +95,11 @@ Raise an issue if something breaks or misleads.
 
 ---
 
-## You might be looking for:
+## You might be looking for
 
-Linguistics,
-  https://www.isko.org/cyclo/primitives.htm
+From a Linguistics Perspective,
+
+https://www.isko.org/cyclo/primitives.htm
+
+---
+
