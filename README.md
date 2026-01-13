@@ -40,4 +40,9 @@ Maintain consistency and avoid drifting meanings.
 
 This repository contains hands-on experiments, notes, and explorations related to CSP-105 and Mogri concepts...
 
+---  
+
+Formerly hosted under minuxlintebiandedition (renamed for brevity)  
+
 ---
+
