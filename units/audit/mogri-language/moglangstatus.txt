@@ -1,7 +1,8 @@
 MOGRI LANGUAGE STATUS (v0.1)
 ===========================
 
-English - still missing mogri
+English - mogri latent (via transmogrify / -ify lineage)
+
 Mandarin Chinese - still missing mogri
 Hindi - still missing mogri
 Spanish - still missing mogri
